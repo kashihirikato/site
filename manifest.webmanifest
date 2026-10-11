@@ -1,0 +1,17 @@
+{
+  "name": "Рестораны Алматы",
+  "short_name": "Рестораны",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#191919",
+  "theme_color": "#191919",
+  "description": "Выбор ресторанов и демонстрационное бронирование столиков.",
+  "icons": [
+    {
+      "src": "assets/images/logo5.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
